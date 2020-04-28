@@ -1,2 +1,3 @@
-a = 1
-print(a)
+c = 1
+d = 1
+print(d)
